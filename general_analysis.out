@@ -1,0 +1,30 @@
+[1] "csv file read: "
+  ID                               Univ_Name                        Major
+1  0 University Of Southern California (USC)       Ms. Green Technologies
+2  1                   Vanderbilt University Education: Special Education
+  Degree Season Decision UG_GPA GRE_Verbal GRE_Quant GRE_Writing Is_new_GRE
+1     MS    S16 Accepted      3        149       146           3       TRUE
+2     MS    F16    Other      3        147       140           3       TRUE
+    Status sumGRE                  School_Name
+1 American    298 universitysoutherncalifornia
+2 American    290         vanderbiltuniversity
+[1] "season_plot generated"
+null device 
+          1 
+[1] "degree_plot generated"
+null device 
+          1 
+[1] "decision_plot generated"
+null device 
+          1 
+[1] "status_plot generated"
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+[1] "histogram plots generated"
+[1] "all plots done plotting!"
